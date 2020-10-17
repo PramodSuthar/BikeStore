@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyBike_Store_Bus_Layer">
+      <HintPath>..\..\MyBike_Store_Presentation_Layer\MyBike_Store_Presentation_Layer\bin\MyBike_Store_Bus_Layer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

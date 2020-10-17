@@ -1,0 +1,4 @@
+C:\Users\Pramod Suthar\Desktop\MyBike_Edited\MyBike_Store_Data_Layer\MyBike_Store_Data_Layer\obj\Debug\netcoreapp2.1\MyBike_Store_Data_Layer.csprojAssemblyReference.cache
+C:\Users\Pramod Suthar\Desktop\MyBike_Edited\MyBike_Store_Data_Layer\MyBike_Store_Data_Layer\obj\Debug\netcoreapp2.1\MyBike_Store_Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Suthar\Desktop\MyBike_Edited\MyBike_Store_Data_Layer\MyBike_Store_Data_Layer\obj\Debug\netcoreapp2.1\MyBike_Store_Data_Layer.AssemblyInfoInputs.cache
+C:\Users\Pramod Suthar\Desktop\MyBike_Edited\MyBike_Store_Data_Layer\MyBike_Store_Data_Layer\obj\Debug\netcoreapp2.1\MyBike_Store_Data_Layer.AssemblyInfo.cs
